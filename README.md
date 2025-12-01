@@ -96,9 +96,9 @@ Estou sempre em busca de aprimorar minhas habilidades com as mais recentes ferra
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwandovillar%2Fwandovillar&s=40&c=006eff&bg=00000000&no=4&ff=digii&tb=Visitantes%3A+&ta=" /></p> 
+
 <br>
 </div>
 
